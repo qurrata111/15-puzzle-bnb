@@ -1,0 +1,2 @@
+solvable = init, init1, init4
+not_solvable = init2, init3
